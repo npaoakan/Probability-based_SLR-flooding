@@ -8,3 +8,7 @@ Inputs required:
 * A water surface and its vertical uncertainty. You may also use a single value (e.g., MHHW) and its standard deviation as vertical uncertainty.
 * Amount of SLR to be modeled.
 
+
+
+NOTE: the Oahu-specific script was created to incorporate spatial analyses of compromised drainage systems and flooded streets.
+
